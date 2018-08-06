@@ -1,4 +1,4 @@
-package com.bawei.mr.titlebarback;
+package com.bawei.tianwang20180806;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.bawei.mr.titlebarback", appContext.getPackageName());
+        assertEquals("com.bawei.tianwang20180806", appContext.getPackageName());
     }
 }
