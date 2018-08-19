@@ -8,4 +8,8 @@ public class Api {
     public final static String LOGIN_URL ="http://www.zhaoapi.cn/user/login";
     //注册
     public final static String  REG_URL = "http://www.zhaoapi.cn/user/reg";
+
+    public final static String PRODUCT_URL = "http://www.zhaoapi.cn/product/searchProducts";
+
+    public final static String IMAGE_URL = "https://www.zhaoapi.cn/home/getHome";
 }

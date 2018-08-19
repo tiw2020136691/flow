@@ -23,7 +23,7 @@ public class RegisterPresenter {
             irView.mobilekong();
             return;
         }
-        if (RegexValidateUtil.checkCellphone(mobile)){
+        if (!RegexValidateUtil.checkCellphone(mobile)){
             irView.mobilehefa();
             return;
         }
